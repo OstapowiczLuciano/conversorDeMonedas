@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java.net">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../Program Files/Java/jdk-17/legal/java.net.http" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
